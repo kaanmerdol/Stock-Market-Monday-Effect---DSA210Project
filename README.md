@@ -17,7 +17,7 @@ Analyzing market inefficiencies provides valuable insights for both academic res
 ## DATASET  
 The dataset will be sourced from Yahoo Finance and will include the following variables:  
 
-- **Date:** The specific trading day, formatted as YYYY-MM-DD.  
+- **Date:** The specific trading day.  
 - **Opening Price:** The stock price at the market open.  
 - **Closing Price:** The stock price at the market close.  
 - **Daily Return:** The percentage change in stock price from the previous day.  
