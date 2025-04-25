@@ -90,3 +90,5 @@ This project aims to answer key questions about stock market behavior.
 - Can traders use this information to improve their investment strategies?  
 
 By combining finance, data science, and business analytics, this project provides a structured approach to analyzing stock market anomalies. If the Monday Effect is statistically significant, it could offer investors a useful framework for optimizing trading decisions. Through data-driven analysis, this study contributes to understanding market inefficiencies and the behavioral aspects of financial decision-making.
+## ATTENTION
+WHILE PREAPERING THIS PROJECT I GOT HELP FOR THE PART OF CODING FROM LLM(AI) WHICH ARE CLAUDE AND CHAT-GPT.
